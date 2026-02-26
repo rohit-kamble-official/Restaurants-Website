@@ -1,44 +1,69 @@
-🍷 The Mills – Luxury Restaurant Website
+🍷 The Mills — Luxury Restaurant Website
 
-A premium, modern restaurant website built using React (Vite) and Tailwind CSS.
-This project represents a high-end dining and nightlife experience inspired by luxury lounge brands.
+A premium, responsive restaurant website built using React (Vite) and Tailwind CSS.
+Designed to represent a high-end dining and nightlife brand experience with a modern, luxury UI.
 
-🚀 Live Preview
+📌 Overview
 
-(Add your deployed link here once hosted)
-Example: https://themills-restaurant.vercel.app
+The Mills is a frontend-focused project that showcases:
 
-📌 Project Overview
+Luxury dark-themed design system
 
-The Mills is a dark-themed luxury restaurant website designed to showcase:
+Smooth animations and interactive UI
 
-Fine dining atmosphere
+Component-based scalable architecture
 
-Multi-cuisine offerings
+Fully responsive layout
 
-Premium nightlife experience
+Elegant booking interface
 
-Online table reservation system
+This project demonstrates professional frontend development practices suitable for portfolio and production-level applications.
 
-Customer reviews & ratings
+🚀 Live Demo
 
-Elegant gallery showcase
-
-The UI is built with a modern, classy aesthetic using smooth animations and a gold-accent luxury theme.
+Add your deployed link here
+Example: https://themills.vercel.app
 
 🛠 Tech Stack
+Frontend
 
-⚛️ React (Vite)
+React (Vite)
 
-🎨 Tailwind CSS
+Tailwind CSS
 
-🎬 Framer Motion (Animations)
+Framer Motion
 
-🎯 React Icons
+React Icons
 
-📱 Fully Responsive Design
+Tools
 
-🌐 SEO Optimized Structure
+Node.js
+
+npm
+
+Git & GitHub
+
+✨ Key Features
+
+Premium dark luxury UI
+
+Sticky transparent navbar
+
+Animated hero section
+
+Glassmorphism info cards
+
+Responsive gallery grid
+
+Popular time visualization
+
+Customer testimonials
+
+Reservation form with UI validation
+
+Smooth scrolling & micro-interactions
+
+Mobile-first responsive design
 
 📂 Project Structure
 src/
@@ -57,144 +82,92 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
-🎨 Design Features
 
-Dark luxury theme (Charcoal / Black background)
+The application follows a modular and reusable component architecture for better scalability and maintainability.
 
-Gold accent color (#D4AF37)
+🎨 Design System
 
-Glassmorphism info cards
+Theme: Dark (Charcoal / Black)
 
-Smooth scroll animations
+Accent Color: Gold (#D4AF37)
 
-Sticky transparent navbar
+Typography: Inter / Poppins
 
-Hover effects & micro-interactions
+Layout: Grid-based responsive system
 
-Premium typography (Inter / Poppins)
+Animations: Framer Motion transitions
+
+UI Style: Modern, Minimal, Luxury-inspired
 
 📱 Responsive Design
 
-The website is fully responsive and optimized for:
+Optimized for:
 
-Mobile devices
+Mobile Devices
 
 Tablets
 
 Laptops
 
-Desktop screens
+Desktops
 
 Includes:
 
-Hamburger mobile menu
+Hamburger navigation
 
-Flexible grid layouts
+Adaptive grid layouts
 
-Optimized image scaling
+Responsive images
 
-✨ Key Sections
-1️⃣ Hero Section
+Flexible spacing system
 
-Full-screen background image
-
-CTA buttons (Book Table / View Menu)
-
-2️⃣ About Section
-
-Restaurant description
-
-Rating display (4.5 ⭐)
-
-Open 24 Hours badge
-
-3️⃣ Info Cards
-
-Location
-
-Reviews
-
-Timings
-
-Cuisine type
-
-4️⃣ Gallery
-
-Grid layout
-
-Hover zoom effect
-
-5️⃣ Popular Times
-
-Animated peak hour bar graph
-
-6️⃣ Reviews
-
-Customer testimonials
-
-Star rating system
-
-7️⃣ Reservation Form
-
-Name
-
-Phone
-
-Date
-
-Time
-
-Guests
-
-Success confirmation popup
-
-⚙️ Installation & Setup
+⚙️ Installation
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/the-mills-restaurant.git
-2️⃣ Navigate to Project Folder
-cd the-mills-restaurant
+git clone https://github.com/your-username/the-mills.git
+2️⃣ Navigate to Project Directory
+cd the-mills
 3️⃣ Install Dependencies
 npm install
-4️⃣ Start Development Server
+4️⃣ Run Development Server
 npm run dev
 
-App will run on:
+Application runs at:
 
 http://localhost:5173
-📦 Build for Production
+🏗 Production Build
 npm run build
 🌍 Deployment
 
-You can deploy this project on:
+Recommended Platforms:
 
 Vercel
 
 Netlify
 
-GitHub Pages
-
 Render
 
-🔥 Future Improvements
+GitHub Pages
 
-Backend integration for reservation system
+📈 Future Enhancements
 
-Admin dashboard
+Backend integration for reservations
 
 Dynamic menu management
 
-Payment integration
+Admin dashboard
 
-Real-time booking confirmation
+Authentication system
 
-SEO enhancements
+Payment gateway integration
 
-👨‍💻 Developed By
+Analytics & SEO enhancements
+
+👨‍💻 Author
 
 Rohit
-Frontend Developer | Creative Designer
-Mumbai, India
+Frontend Developer & Creative Designer
+Nagpur, India
 
 📄 License
 
-This project is for educational and portfolio purposes.
+This project is intended for portfolio and educational purposes only.
