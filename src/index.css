@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gold: #D4AF37;
+  --color-gold-light: #F1D592;
+  --color-charcoal: #121212;
+  --color-charcoal-light: #1E1E1E;
+  
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Playfair Display", serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-charcoal text-white font-sans antialiased;
+  }
+}
+
+@layer utilities {
+  .glass {
+    @apply bg-white/5 backdrop-blur-md border border-white/10;
+  }
+  .text-gold {
+    @apply text-gold;
+  }
+  .bg-gold {
+    @apply bg-gold;
+  }
+  .border-gold {
+    @apply border-gold;
+  }
+}
